@@ -1,4 +1,4 @@
-codealpha_task
+codealpha_task2
 
 
 This repository contains the solution to the problem statement provided by CodeAlpha for the task of Data Science Intern.
